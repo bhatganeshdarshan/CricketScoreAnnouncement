@@ -61,5 +61,5 @@
 
 <ul>
   <li>Email: bhatganeshdarshan10@gmail.com </li>
-  <li>GitHub: <a href="https://github.com/bhatganeshdarshan">Your GitHub Profile</a></li>
+  <li>GitHub: <a href="https://github.com/bhatganeshdarshan">My GitHub Profile</a></li>
 </ul>
